@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshrayVB10
 - 👀 I’m interested in reading books,playing vedio games,watching web-series and movies
-- 🌱 I’m currently learning diploma in Computer science
+- 🌱 I’m currently learning Diploma in Computer science
 - 💞️ I’m looking to collaborate on to learn new things
 
 <!---
